@@ -1,4 +1,4 @@
-![sentir](https://files.ontario.ca/shaking-hands.png){:height="50px"} Conception avec empathie
+Conception avec empathie
 ------------------------------------------------------------------------------
 
 ### Diversité invisible
@@ -48,7 +48,7 @@ Vous aurez peut-être affaire à des personnes fâchées, tristes, anxieuses, fr
 
 Ne faites pas de présomptions au sujet d’un comportement. Restez calme et demandez une clarification. Expliquez ce que vous avez entendu et le sentiment que vous avez éprouvé.
 
-![bouger](https://files.ontario.ca/wheelchair.png){:height="50px"} Conception avec expériences physiques
+Conception avec expériences physiques
 ----------------------------------------------------------------------------------------
 
 ### En personne
@@ -97,7 +97,7 @@ Ne faites pas de présomptions au sujet d’un comportement. Restez calme et dem
 *   ont des paralysies complètes et partielles
 *   ont subi des amputations
 
-![écouter](https://files.ontario.ca/ear.png){:height="50px"} Conception avec expériences audio
+Conception avec expériences audio
 ------------------------------------------------------------------------------
 
 ### En personne
@@ -142,7 +142,7 @@ Ne faites pas de présomptions au sujet d’un comportement. Restez calme et dem
 *   avec perte auditive totale ou partielle
 *   dont la deuxième langue est l’anglais
 
-![voir](https://files.ontario.ca/eye.png){:height="50px"} Conception avec expériences visuelles
+Conception avec expériences visuelles
 -------------------------------------------------------------------------------
 
 ### En ligne
@@ -193,7 +193,7 @@ Utilisez des éléments HTML pour créer la structure :
 *   sensibilité à la lumière
 *   dyslexie
 
-![penser](https://files.ontario.ca/thinking.png){:height="50px"} Conception avec par l’expérience
+Conception avec par l’expérience
 ---------------------------------------------------------------------------------
 
 ### En ligne

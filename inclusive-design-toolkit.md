@@ -1,4 +1,4 @@
-![feeling](https://files.ontario.ca/shaking-hands.png) Design with empathy
+Design with empathy
 --------------------------------------------------------------------------
 
 ### Invisible diversity
@@ -48,7 +48,7 @@ You may interact with people who feel angry, sad, anxious, frustrated or other e
 
 Don’t make assumptions about behaviour. Remain calm and ask for clarification. Explain what you heard and how it made you feel.
 
-![moving](https://files.ontario.ca/wheelchair.png) Design inclusive physical experiences
+Design inclusive physical experiences
 ----------------------------------------------------------------------------------------
 
 ### In person
@@ -98,7 +98,7 @@ Don’t make assumptions about behaviour. Remain calm and ask for clarification.
 *   full or partial paralysis
 *   missing limbs
 
-![hearing](https://files.ontario.ca/ear.png) Design inclusive audio experiences
+Design inclusive audio experiences
 -------------------------------------------------------------------------------
 
 ### In person
@@ -143,7 +143,7 @@ Don’t make assumptions about behaviour. Remain calm and ask for clarification.
 *   with full or partial hearing loss
 *   whose second language is English
 
-![seeing](https://files.ontario.ca/eye.png) Design inclusive visual experiences
+Design inclusive visual experiences
 -------------------------------------------------------------------------------
 
 ### Online
@@ -194,7 +194,7 @@ Use HTML elements to create structure:
 *   light sensitivity
 *   dyslexia
 
-![thinking](https://files.ontario.ca/thinking.png) Design inclusive thought experiences
+Design inclusive thought experiences
 ---------------------------------------------------------------------------------------
 
 ### Online
