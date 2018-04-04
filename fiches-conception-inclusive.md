@@ -38,7 +38,7 @@ Vidéos pour mieux comprendre :
 
 ### Mesures d’adaptation
 
-Bon nombre de mesures d’adaptation sont exigées par le [Code des droits de la personne](http://www.ohrc.on.ca/fr/le-code-des-droits-de-la-personne-de-l%E2%80%99ontario) de l’Ontario ou la [Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario](https://www.ontario.ca/accessibilite). Engagez-vous immédiatement à offrir des mesures d’adaptation.
+Bon nombre de mesures d’adaptation sont exigées par le *[Code des droits de la personne](http://www.ohrc.on.ca/fr/le-code-des-droits-de-la-personne-de-l%E2%80%99ontario)* de l’Ontario ou la *[Loi de 2005 sur l’accessibilité pour les personnes handicapées de l’Ontario](https://www.ontario.ca/accessibilite)*. Engagez-vous immédiatement à offrir des mesures d’adaptation.
 
 Ne doutez pas du besoin d’une personne pour des mesures d’adaptation. S’il est très difficile ou coûteux de les offrir, expliquez la difficulté et demandez s’il y a une autre façon de les aider.
 
@@ -149,7 +149,7 @@ Conception avec expériences visuelles
 
 *   ne vous en remettez pas seulement à la vision (p. ex. organisez le contenu par couleurs ou par l’emplacement sur la page)
 *   pour le texte, utilisez des couleurs qui contrastent fortement avec l’arrière-plan
-*   [n’utilisez pas d’éléments choisis](https://www.youtube.com/watch?v=CUkMCQR4TpY)(listes déroulantes)
+*   [n’utilisez pas d’éléments choisis](https://www.youtube.com/watch?v=CUkMCQR4TpY) (listes déroulantes)
 
 Donnez le contrôle à l’utilisateur :
 
