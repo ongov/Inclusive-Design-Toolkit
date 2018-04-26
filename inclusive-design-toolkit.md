@@ -38,7 +38,7 @@ Videos to help you gain a deeper understanding:
 
 ### Accommodations
 
-Many accommodations are required by law under the [Ontario Human Rights Code](http://www.ohrc.on.ca/en/ontario-human-rights-code) and/or the [Accessibility for Ontarians with Disabilities Act](https://ontario.ca/accessibility). Become biased towards trying to accommodate immediately.
+Many accommodations are required by law under the *[Ontario Human Rights Code](http://www.ohrc.on.ca/en/ontario-human-rights-code)* and/or the *[Accessibility for Ontarians with Disabilities Act](https://ontario.ca/accessibility)*. Become biased towards trying to accommodate immediately.
 
 Don’t doubt a person’s need for accommodations. If it is an extreme hardship or cost to provide, explain the challenge and ask if there is another way you can accommodate them.
 
