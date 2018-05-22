@@ -145,6 +145,17 @@ Conception avec expériences audio
 Conception avec expériences visuelles
 -------------------------------------------------------------------------------
 
+### En personne
+
+*   offrez de grands formats d’impression et en braille
+*   fournissez un éclairage lumineux pour aider à la lecture
+*   abstenez-vous de caresser, de nourrir ou de distraire les chiens d’assistance
+*   identifiez-vous lorsque vous entrez dans une pièce
+*   demandez la permission pour guider quelqu’un
+*   il ne faut pas saisir la personne&emdash;touchez le dos de la main et la personne vous prendra le coude
+*   informez la personne des marches ou obstacles devant elle
+*   donnez des directives qui ne reposent pas sur la vue, p. ex. à gauche ou à droite, et indiquez la distance
+
 ### En ligne
 
 *   ne vous en remettez pas seulement à la vision (p. ex. organisez le contenu par couleurs ou par l’emplacement sur la page)
@@ -171,17 +182,6 @@ Utilisez des éléments HTML pour créer la structure :
 *   assurez-vous que les ID sont uniques
 *   vérifiez si l’ordre du contenu est logique sans CSS (testez avec une extension [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) ou [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) ou encore un lecteur d’écran comme [NVDA](https://www.nvaccess.org/download/) ou [voiceover](https://help.apple.com/voiceover/info/guide/10.12/))
 
-### En personne
-
-*   offrez de grands formats d’impression et en braille
-*   fournissez un éclairage lumineux pour aider à la lecture
-*   abstenez-vous de caresser, de nourrir ou de distraire les chiens d’assistance
-*   identifiez-vous lorsque vous entrez dans une pièce
-*   demandez la permission pour guider quelqu’un
-*   il ne faut pas saisir la personne&emdash;touchez le dos de la main et la personne vous prendra le coude
-*   informez la personne des marches ou obstacles devant elle
-*   donnez des directives qui ne reposent pas sur la vue, p. ex. à gauche ou à droite, et indiquez la distance
-
 ### Vous aiderez les personnes qui
 
 *   éblouissement élevé à l’écran
@@ -195,6 +195,14 @@ Utilisez des éléments HTML pour créer la structure :
 
 Conception avec par l’expérience
 ---------------------------------------------------------------------------------
+
+### En personne
+
+*   mentionnez ce que les utilisateurs doivent savoir ou apporter avec eux à l’avance
+*   répétez les informations aussi souvent qu’on vous le demande
+*   envisagez de reformuler ou d’utiliser un mot différent si vous devez répéter quelque chose plus de deux fois
+*   ne pressez pas les personnes qui ont besoin de plus de temps
+*   offrez des services de prise de notes ou d’écriture si nécessaire
 
 ### En ligne
 
@@ -222,14 +230,6 @@ Considérations vestibulaires :
 *   n’utilisez pas d’effets de défilement de parallaxe ou le défilement automatique
 *   ne placez pas d’images animées sous un texte statique
 *   n’utilisez pas d’éléments clignotants ou scintillants
-
-### En personne
-
-*   mentionnez ce que les utilisateurs doivent savoir ou apporter avec eux à l’avance
-*   répétez les informations aussi souvent qu’on vous le demande
-*   envisagez de reformuler ou d’utiliser un mot différent si vous devez répéter quelque chose plus de deux fois
-*   ne pressez pas les personnes qui ont besoin de plus de temps
-*   offrez des services de prise de notes ou d’écriture si nécessaire
 
 ### Vous aiderez les personnes qui
 
