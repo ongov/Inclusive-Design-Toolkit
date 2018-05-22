@@ -146,6 +146,17 @@ Design inclusive audio experiences
 Design inclusive visual experiences
 -------------------------------------------------------------------------------
 
+### In person
+
+*   offer large print and braille formats
+*   provide bright lighting to help with reading
+*   don’t pet, feed or distract service dogs
+*   identify yourself when you enter a room
+*   ask before guiding someone
+*   don’t grab the person—touch the back of their hand and they will take your elbow
+*   tell them about steps or obstructions as you approach them
+*   give directions that don’t rely on sight—e.g. to your left or right and indicate the distance
+
 ### Online
 
 *   don’t rely on vision (e.g. identify content by colour or position on the page)
@@ -172,17 +183,6 @@ Use HTML elements to create structure:
 *   ensure IDs are unique within the page
 *   check that content order is logical without CSS (test with a [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-developer/) extension or a screen reader like [NVDA](https://www.nvaccess.org/download/) or [voiceover](https://help.apple.com/voiceover/info/guide/10.12/))
 
-### In person
-
-*   offer large print and braille formats
-*   provide bright lighting to help with reading
-*   don’t pet, feed or distract service dogs
-*   identify yourself when you enter a room
-*   ask before guiding someone
-*   don’t grab the person—touch the back of their hand and they will take your elbow
-*   tell them about steps or obstructions as you approach them
-*   give directions that don’t rely on sight—e.g. to your left or right and indicate the distance
-
 ### You’ll help people with
 
 *   high glare on screen
@@ -196,6 +196,14 @@ Use HTML elements to create structure:
 
 Design inclusive thought experiences
 ---------------------------------------------------------------------------------------
+
+### In person
+
+*   identify what users need to know or bring with them in advance
+*   repeat information as often as you are requested
+*   consider rephrasing or using a different word if you have to repeat something more than twice
+*   don’t rush people who need more time
+*   offer note taking or writing services if needed
 
 ### Online
 
@@ -223,14 +231,6 @@ Vestibular concerns:
 *   don’t use parallax scroll effects or automated scrolling
 *   don’t place moving images beneath static text
 *   don’t use flashing, blinking or flickering elements
-
-### In person
-
-*   identify what users need to know or bring with them in advance
-*   repeat information as often as you are requested
-*   consider rephrasing or using a different word if you have to repeat something more than twice
-*   don’t rush people who need more time
-*   offer note taking or writing services if needed
 
 ### You’ll help people with
 
