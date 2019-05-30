@@ -164,7 +164,6 @@ Use HTML elements to create structure:
 *   use descending heading order (h1, h2, h3, h4)
 *   ensure links make sense if read in isolation from the context
 *   add a label to all form elements
-*   use abbreviation tags
 *   use CSS for decorative images and img tags for informative images
 *   [describe images](https://webaim.org/techniques/alttext/) in captions (>140 characters) or alt text (<140 characters)
 *   identify the page language and changes with the lang attribute

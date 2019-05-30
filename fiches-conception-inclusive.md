@@ -174,7 +174,6 @@ Utilisez des éléments HTML pour créer la structure :
 *   utilisez l’ordre décroissant des en-tête
 *   assurez-vous que les liens ont un sens s’ils sont lus séparément du contexte
 *   ajoutez une étiquette à tous les éléments de formulaire
-*   utilisez des abréviations pour les balises
 *   utilisez CSS pour les images décoratives et les balises img pour les images informatives
 *   [décrivez les images](https://webaim.org/techniques/alttext/) par une légende (>140 caractères) ou alt texte (<140 caractères)
 *   identifiez la langue et les changements de la page avec l’attribut lang
